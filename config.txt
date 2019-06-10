@@ -1,5 +1,5 @@
 owner=479181422993735680
-prefix=1
+prefix=$
 game=play
 stayinchannel=true
 songinstatus=false
